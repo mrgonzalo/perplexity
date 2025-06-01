@@ -1,2 +1,2 @@
 # perplexity
-Perplexity AI
+Versión: 1.0.0
